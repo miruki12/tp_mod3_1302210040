@@ -1,0 +1,17 @@
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.Form1.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.csproj.GenerateResource.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.AssemblyInfo.cs
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\bin\Debug\net7.0-windows\tp_mod3_1302210040.exe
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\bin\Debug\net7.0-windows\tp_mod3_1302210040.deps.json
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\bin\Debug\net7.0-windows\tp_mod3_1302210040.runtimeconfig.json
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\bin\Debug\net7.0-windows\tp_mod3_1302210040.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\bin\Debug\net7.0-windows\tp_mod3_1302210040.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\refint\tp_mod3_1302210040.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\tp_mod3_1302210040.genruntimeconfig.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tp_mod3_1302210040\tp_mod3_1302210040\obj\Debug\net7.0-windows\ref\tp_mod3_1302210040.dll
